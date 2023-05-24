@@ -68,4 +68,4 @@ You probably wouldn't get shadows like this in Photoshop.
 
 A detail shot?
 
-If you want to see the .blend file, feel free to download it [here](images/mast.blend).
+If you want to see the .blend file, feel free to download it [here](images/mast.zip).

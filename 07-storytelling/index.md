@@ -51,4 +51,4 @@ Now we get into the good stuff. We have two fill lights and one key light, the d
 
 This final render is just a little bonus and a demonstration of what you can do with lights that are of separate color. For this example i used a much more detailed model and a red key light coming in from the top, giving the render a distinct Sci-Fi look that is pretty simple to reproduce.
 
-If you really want to go in-depth and explore, feel free to download the .blend file [here](images/lighting.blend).
+If you really want to go in-depth and explore, feel free to download the .blend file [here](images/lighting.zip).
