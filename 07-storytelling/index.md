@@ -2,7 +2,7 @@
 
 by Max Měšťan
 
-- Download the slides [here](images/mestan-slides.pdf)
+- Download the slides [here](images/mestan_slides.pdf)
 - View my thought process [here](process.md)
 
 

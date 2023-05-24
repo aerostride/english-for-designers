@@ -67,3 +67,5 @@ You probably wouldn't get shadows like this in Photoshop.
 ![Detail shot of the top of bruise concealment ointment packaging on a grey background](images/traumaplant_detail.jpg)
 
 A detail shot?
+
+If you want to see the .blend file, feel free to download it [here](images/mast.blend).
