@@ -6,10 +6,10 @@ by Max Měšťan
 
 ## Contents
 
-01: [The approach](#approach)
-02: [The results](#results)
-03: [The rebrand](#rebrand)
-04: [The bonus](#bonus)
+- 01: [The approach](#approach)
+- 02: [The results](#results)
+- 03: [The rebrand](#rebrand)
+- 04: [The bonus](#bonus)
 
 Before we get started, let me fill you in. For my bachelor's thesis I chose to work on a rebrand for a non-profit organization. The name of the organization is ROSA Centrum pro ženy, which roughly translates to ROSA centre for women. The name ROSA stems from a combination of two czech words, "**RO**zvedená a **SA**mostatná" - in english: Divorced and self-sufficient.
 
@@ -62,4 +62,8 @@ This is where Blender comes in! I did some storytelling about this beautiful, fr
 
 ![A 3D render of a bruise concealment ointment packaging in a white space](images/traumaplant.jpg)
 
+You probably wouldn't get shadows like this in Photoshop.
+
 ![Detail shot of the top of bruise concealment ointment packaging on a grey background](images/traumaplant_detail.jpg)
+
+A detail shot?
